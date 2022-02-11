@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
         body: SingleChildScrollView(
           child: Column(
             children: [
-              CostumAppBar(),
+              CustomAppBar(),
               Column(
                 children: [
                   Chart(
