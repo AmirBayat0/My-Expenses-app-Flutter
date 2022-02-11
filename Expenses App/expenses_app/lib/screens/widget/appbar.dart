@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 
-class CostumAppBar extends StatelessWidget {
-  const CostumAppBar({Key? key}) : super(key: key);
+class CustomAppBar extends StatelessWidget {
+  const CustomAppBar({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
