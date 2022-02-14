@@ -37,7 +37,7 @@ class CustomAppBar extends StatelessWidget {
                 Padding(
                   padding: EdgeInsets.only(bottom: 50, left: 10),
                   child: CircleAvatar(
-                    backgroundImage: AssetImage("assets/images/my.jpg"),
+                    backgroundImage: AssetImage('Your image here"),
                     radius: 25.0,
                   ),
                 ),
